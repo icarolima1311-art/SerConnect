@@ -1,0 +1,8 @@
+id_cliente,segmento,bairro,canal_venda,status_cliente,data_adesao,nota_satisfacao,pesquisa_satisfacao
+continuous,B2B B2C,Alphaville BOA\ VISTA Barueri Bela\ Vista Berrini Boa\ Vista Brás Campo\ Belo Carapicuíba Centro Centro\ Empresarial Cidade\ Tiradentes Consolação Cotia Cursino Distrito\ Industrial Embu Faria\ Lima Guarulhos Ipiranga Itaquera Jabaquara Jard.\ America Jardim\ América Lapa Liberdade Moema Mooca Osasco Parque\ Industrial Penha Pinheiros Polo\ Tecnológico Sacomã Santa\ Cruz Santana Saúde São\ Bernardo São\ Lucas São\ Mateus Taboão\ da\ Serra Tamboré Tatuapé Tucuruvi Vila\ Madalena Vila\ Mariana Vila\ Nova Vila\ Olímpia Vila\ Prudente b.\ vista Água\ Rasa,Executivo\ de\ Contas Indicação Indicação\ Corporativa Licitação Loja\ Física Online Parceiro Parceiro\ Empresarial Televendas,Ativo Cancelado Inadimplente Inativo,time,continuous,time
+,,,,,,,
+25,B2C,Sacomã,Parceiro,Ativo,2022-03-24,0,2025-12-25
+453,B2C,Brás,Loja Física,Ativo,2022-08-11,0,2025-12-25
+856,B2C,São Lucas,Televendas,Ativo,2022-12-26,0,2025-12-25
+1684,B2C,Ipiranga,Televendas,Ativo,2022-04-29,0,2025-12-25
+2537,B2C,Cursino,Online,Ativo,2020-09-06,0,2025-12-25

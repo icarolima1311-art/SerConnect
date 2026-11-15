@@ -1,0 +1,11 @@
+nome_plano,id_plano,segmento,velocidade_mb,valor_mensal
+string,continuous,B2B B2C,continuous,continuous
+meta,,,,
+Fibra Residencial 300MB,1,B2C,300,119.9
+Fibra Residencial 500MB,2,B2C,500,159.9
+Fibra Gamer 1GB,3,B2C,1024,219.9
+Internet Dedicada 60GB,4,B2B,61440,15000.0
+BGP 150GB,5,B2B,153600,4800.0
+Trânsito IP 200GB,6,B2B,204800,7000.0
+Lan-to-Lan (L2L) 400GB,7,B2B,409600,800000.0
+DWDM 600GB,8,B2B,614400,700000.0

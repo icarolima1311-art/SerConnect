@@ -1,0 +1,46 @@
+id_funcionario,cargo,idade,salario
+continuous,Analista\ Comercial Analista\ Financeiro Analista\ NOC\ N1 Analista\ NOC\ N2 Analista\ NOC\ N3 Analista\ de\ RH Coordenador\ NOC Coordenador\ de\ Campo Diretor\ de\ Operações Diretora\ de\ RH Engenheiro\ de\ Redes Gerente\ Comercial Técnico\ de\ Campo,continuous,continuous
+,,,
+1,Diretor de Operações,44,35000
+2,Engenheiro de Redes,41,25000
+3,Coordenador NOC,34,12000
+4,Coordenador de Campo,37,9000
+5,Diretora de RH,40,18000
+6,Gerente Comercial,38,15000
+7,Analista NOC N3,32,8500
+8,Analista NOC N2,25,5000
+9,Analista NOC N2,29,5000
+10,Analista NOC N2,38,5000
+11,Analista NOC N1,30,3000
+12,Analista NOC N1,32,3000
+13,Analista NOC N1,29,3000
+14,Analista NOC N1,17,3000
+15,Analista NOC N1,27,3000
+16,Analista NOC N1,25,3000
+17,Técnico de Campo,32,2800
+18,Técnico de Campo,36,2800
+19,Técnico de Campo,32,2800
+20,Técnico de Campo,30,2800
+21,Técnico de Campo,43,2800
+22,Técnico de Campo,33,2800
+23,Técnico de Campo,37,2800
+24,Técnico de Campo,44,2800
+25,Técnico de Campo,40,2800
+26,Técnico de Campo,16,2800
+27,Técnico de Campo,40,2800
+28,Técnico de Campo,28,2800
+29,Técnico de Campo,21,2800
+30,Técnico de Campo,27,2800
+31,Técnico de Campo,36,2800
+32,Técnico de Campo,42,2800
+33,Técnico de Campo,20,2800
+34,Técnico de Campo,38,2800
+35,Técnico de Campo,34,2800
+36,Técnico de Campo,27,2800
+37,Analista Financeiro,24,4500
+38,Analista Financeiro,35,4500
+39,Analista de RH,29,4000
+40,Analista Comercial,23,3500
+41,Analista Comercial,34,3500
+42,Analista Comercial,27,3500
+43,Analista Comercial,28,3500
