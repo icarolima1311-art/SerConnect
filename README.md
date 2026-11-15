@@ -142,7 +142,10 @@ A solução proposta permite substituir análises baseadas em suposições por i
 
 **Projeto acadêmico – Expotech 2026.2**
 **UniFECAF | Gestão da Tecnologia da Informação**
+
 **Fabia Lima - 127875**
+
 **Icaro Oliveira - 125799**
+
 **Rhafael Marques - 118369**
 
